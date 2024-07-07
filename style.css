@@ -1,0 +1,49 @@
+
+body{
+    background-image: url("https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L2pvYjE4MjktYmFja2dyb3VuZC1tay0wMDhnLmpwZw.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+#dir1{
+    font-style: italic;
+    font-size: x-large;
+    color: beige;
+    margin-top: 20px;
+    margin-bottom: 10px ;
+}
+#mov1{
+    font-style: oblique;
+}
+marquee{
+    width: 500px;
+    margin-left: 475px;
+
+}
+#top
+{
+    color: lightsalmon;
+}
+h1{
+    margin-left: 40px;
+    
+}
+#fir{
+    margin-top: 3%;
+    margin-left: 10px;
+    font-size:x-large;
+    color: tan;
+    text-decoration:underline;
+
+}
+ul{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#movs{
+    font-style: italic;
+    font-size: 18px;
+    color:rgb(231, 218, 82);
+    
+}
